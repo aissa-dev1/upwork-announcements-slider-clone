@@ -1,6 +1,6 @@
 # Upwork Announcements Slider Clone
 
-Made with React js & TypeScript & Tailwind css
+Made with React js & TypeScript & Tailwind css.
 
 This is my first project out in YouTube.
 
